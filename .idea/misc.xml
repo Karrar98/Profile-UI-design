@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/bg_button_circule.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/bg_circule.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/bg_image_circule.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/ic_add.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/ic_call.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/ic_facebook_messenger.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/ic_friends.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/ic_friends_2.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/ic_outline_photo_2.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/ic_person.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/drawable/ic_photo.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/karrar/AndroidStudioProjects/MyUIApp/app/src/main/res/layout/activity_main.xml" value="0.34121929026387626" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
